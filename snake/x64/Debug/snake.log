@@ -1,0 +1,2 @@
+﻿snake.obj : error LNK2011: precompiled object not linked in; image may not run
+C:\Users\ASUS\OneDrive - Universidade de Lisboa\projects\Snake\snake\x64\Debug\snake.exe : fatal error LNK1120: 1 unresolved externals

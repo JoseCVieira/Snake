@@ -1,0 +1,3 @@
+﻿  snake.cpp
+c:\users\asus\source\repos\snake\snake\snake.cpp(140): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  snake.vcxproj -> C:\Users\ASUS\source\repos\snake\Debug\snake.exe
