@@ -1,5 +1,5 @@
 # Snake
-Implementation of Snake in a simple program c++.
+Implementation of Snake in a simple c++ program.
 
 ### Description:
 ###### From Wikipedia, the free encyclopedia
