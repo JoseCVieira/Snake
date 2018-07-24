@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+c:\users\asus\source\repos\snake\snake\graphics.h(17): warning C4005: 'SE': macro redefinition
+  c:\users\asus\source\repos\snake\snake\graphics.h(16): note: see previous definition of 'SE'
+  Cursor.cpp
+c:\users\asus\source\repos\snake\snake\cursor.cpp(15): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Graphics.cpp
+  Snake.cpp
+  Generating Code...
+  Snake.vcxproj -> C:\Users\ASUS\source\repos\Snake\Debug\Snake.exe
